@@ -1,3 +1,11 @@
+///////////////////////////////////////////////////////////////*/
+//                                                               
+// Autor: Luiz Fernando Galati
+//                                                  
+///////////////////////////////////////////////////////////////*/
+
+
+
 /* //////////// Protótipos de funções acessíveis pelo módulo principal //////////// */
 
 int buscaBinaria1(char *palvr, int Tdic);

@@ -1,17 +1,7 @@
-/* DECLARO QUE SOU O UNICO AUTOR E RESPONSAVEL POR ESTE PROGRAMA.
-// TODAS AS PARTES DO PROGRAMA, EXCETO AS QUE FORAM FORNECIDAS   
-// PELO PROFESSOR OU COPIADAS DO LIVRO OU DAS BIBLIOTECAS DE     
-// SEDGEWICK OU ROBERTS, FORAM DESENVOLVIDAS POR MIM. DECLARO   
-// TAMBEM QUE SOU RESPONSAVEL POR TODAS AS COPIAS DESTE PROGRAMA 
-// E QUE NAO DISTRIBUI NEM FACILITEI A DISTRIBUICAO DE COPIAS.   
+///////////////////////////////////////////////////////////////*/
 //                                                               
-// Autor: Luiz Fernando Antonelli Galati                                                    
-// Numero USP: 7557223                                               
-// Sigla: LUIZFERN                                     
-// Data: 2015-09-21                                             
-//                                                               
-// Este arquivo faz parte da tarefa E da disciplina MAC0121.
-//                                                               
+// Autor: Luiz Fernando Galati
+//                                                  
 ///////////////////////////////////////////////////////////////*/
 
 
